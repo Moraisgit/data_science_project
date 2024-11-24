@@ -11,12 +11,14 @@
 
 ## Code
 
+(todo)
+
 
 ## Report
 
 The file `report.pdf` gives a more in depth description of the work done.
 
-## Extra Tests and Images
+## Images
 
 Images that did not fit into the report and are mentioned in it are available [here](https://drive.google.com/drive/folders/1xqP2Qb9q2ZGdruHN3tJFe26Mk4JRGAIn?usp=sharing).
 
@@ -28,4 +30,4 @@ António Morais - 102643
 
 Vasco Félix - 
 
-Tiago Borbinha - # data_science_project
+Tiago Borbinha -
