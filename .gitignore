@@ -1,0 +1,4 @@
+.venv
+datasets/class_ny_arrests.csv
+images
+src/__pycache__
