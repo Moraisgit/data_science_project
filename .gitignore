@@ -1,4 +1,4 @@
 .venv
-datasets/class_ny_arrests.csv
+datasets/class_ny_arrests*
 images
 src/__pycache__
