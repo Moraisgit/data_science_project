@@ -11,12 +11,18 @@
 
 ## Code
 
-(todo)
+- `config.py`: Configurations used in plots.
+
+- `dslabs_functions.py`: Functions given by the faculty to perform data analysis.
+
+- `set#_C_#.ipynb`: Step of the KDD process for the set #, regarding classification.
+
+- `set#_TS_#.ipynb`: Step of the KDD process for the set #, regarding time series.
 
 
 ## Report
 
-The file `report.pdf` gives a more in depth description of the work done.
+The file `docs/report.pdf` gives a more in depth description of the work done.
 
 ## Images
 
@@ -28,6 +34,6 @@ António Jotta - 99893
 
 António Morais - 102643
 
-Vasco Félix - 
+Vasco Félix - 99131
 
-Tiago Borbinha -
+Tiago Borbinha - 103382
